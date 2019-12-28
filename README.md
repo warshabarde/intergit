@@ -28,4 +28,10 @@ git push origin --all
 git merge branchname
 git merge branchname hashID
 git hash-object filename #hash algorithm SHA-1 short digest
+git stash save 'message'
+git stash apply stashvalue
+git stash pop topone
+git stash drop stashvalue
+git stash list
+git stash clear
 ```
