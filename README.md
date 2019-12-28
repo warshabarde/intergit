@@ -13,6 +13,8 @@ git clean -n #shows file in untracked staged trying to remove but not remove com
 git clean -f #will remove file from untracked stage and delete it from repo
 git clean -fd #remove folders
 git clean -i #provides option
+git reset HEAD filename
+git checkout -- filename
 git config --global user.name 'NAME'
 git config --global user.email 'mail@*.com'
 git config --global --list
