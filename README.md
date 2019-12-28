@@ -1,7 +1,7 @@
 Git Commands
 -------------
 
-'''markdown
+```markdown
 git init
 git add
 git commit -m
@@ -24,4 +24,4 @@ git mv filename newname
 git commit --amend #to change commit
 git remote add origin URL
 git remote -V
-'''
+```
