@@ -36,4 +36,6 @@ git stash pop topone
 git stash drop stashvalue
 git stash list
 git stash clear
+git rebase ??
+The commit hash is using SHA-1 algorithm of 128 bit
 ```
