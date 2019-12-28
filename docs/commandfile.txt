@@ -1,0 +1,15 @@
+git init
+git add
+git commit -m
+git status
+git log --oneline
+added .gitignore
+added .gitkeep
+git clean -n #shows file in untracked staged trying to remove but not remove completely
+git clean -f #will remove file from untracked stage and delete it from repo
+git clean -fd #remove folders
+git clean -i #provides option
+git config --global user.name 'NAME'
+git config --global user.email 'mail@*.com'
+git config --global --list
+
