@@ -6,3 +6,5 @@ def multiply(a,b)
     pass
 def divide(a,b)
     pass
+def square(a)
+    return a**2
