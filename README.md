@@ -25,4 +25,7 @@ git commit --amend #to change commit
 git remote add origin URL
 git remote -V
 git push origin --all
+git merge branchname
+git merge branchname hashID
+git hash-object filename #hash algorithm SHA-1 short digest
 ```
