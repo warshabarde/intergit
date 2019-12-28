@@ -24,4 +24,5 @@ git mv filename newname
 git commit --amend #to change commit
 git remote add origin URL
 git remote -V
+git push origin --all
 ```
